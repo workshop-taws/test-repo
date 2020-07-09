@@ -2,3 +2,5 @@ Archivo creado desde rama 2
 
 Cambio local, nuevo
 Cambio local, desde el remoto
+
+Cambio remoto
