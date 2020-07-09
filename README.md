@@ -2,7 +2,6 @@
 
 ## Descripcion
 
-<<<<<<< HEAD
 ...
 
 ## Cómo usar
@@ -15,6 +14,4 @@
 1. Uno
 2. Dos
 3. Tres
-=======
-...
->>>>>>> parent of d0c0ab6... Update README.md
+4. Cuatro
