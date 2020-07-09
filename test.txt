@@ -4,3 +4,4 @@ Cambio local, nuevo
 Cambio local, desde el remoto
 
 conflict rebase local
+Cambio remoto
