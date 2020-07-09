@@ -18,3 +18,7 @@
 5. Cinco antes de checkout
 
 Nuevo cambio que si quremos confirmar
+
+## Recomenciones
+
+...
