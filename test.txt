@@ -1,7 +1,4 @@
 Archivo creado desde rama 2
 
-<<<<<<< HEAD
 Cambio local, nuevo
-=======
 Cambio local, desde el remoto
->>>>>>> 9f4aa7159ff9624331006daeb0304287b108af86
